@@ -1,0 +1,2 @@
+favorite_fruits = ['banana','apple','peach','pineapple','kiwi']
+if 'banana' in favorite_fruits:
